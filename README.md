@@ -1,5 +1,5 @@
 ## Java Basic
-### (Java 8 basic types,Encapsulated classes, Number, String)[JavaPractice/note/JavaType.md]
+### [Java 8 basic types,Encapsulated classes,Number,String](JavaPractice/note/JavaType.md)
 
 
 ## Basic
